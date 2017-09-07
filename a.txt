@@ -1,0 +1,2 @@
+Git sample file.
+Commiting and pushing from ubuntu machine
